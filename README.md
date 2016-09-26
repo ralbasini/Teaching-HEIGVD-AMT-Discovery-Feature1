@@ -22,3 +22,4 @@ The Web App is now fully operational accessible at the following addresses :
 * WildFly Administration console : http://192.168.99.100:9990/
 
 ##Credits
+ALBASINI Romain, SELIMI Dardan
